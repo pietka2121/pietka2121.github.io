@@ -7,7 +7,7 @@ Hi! I am Paweł. I am a data analysist trainee. But not for long *wink* *wink*
 I would like to show you my dashboards and analyses. 
 I hope this will help me show my skills and what I have learned so far.
 
-LEt me shortly introduce myself
+Let me shortly introduce myself
 
 ## About Me
 I have experience in analyzing, processing and presenting data. I have conducted scientific research on natural language. 
